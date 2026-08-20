@@ -37,4 +37,4 @@ Reinforcement learning for continuous control — PPO, reward shaping, and the g
 
 ---
 
-📍Saudi Arabia · [LinkedIn](https://linkedin.com/in/huthaifa-foudeh)
+📍Saudi Arabia · [LinkedIn](https://www.linkedin.com/in/huthaifa-foudeh-1105b5286/)
